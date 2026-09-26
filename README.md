@@ -17,4 +17,4 @@ Bu proje; hazır entegreler (555 zamanlayıcı vb.) veya mikrodenetleyiciler **k
 - `analog piano document.pdf`: Devrenin teknik dökümantasyonu ve detayları.
 - `piano_projesi`: Devre şemaları ve tasarım dosyaları
 
-- piano projesi dosyasini falstad simulation uygulamasinda acmaniz lazim 
+- piano projesi dosyasını falstad simulation uygulamasında acmanız lazım 
